@@ -1,0 +1,16 @@
+Model output_0 at ./models/2017-07-14_13-29-44.
+Training from : /home/snu/data/Training_data/text8
+
+Parameters : 
+	Vector size = 100,
+	Window size = 5,
+	Min count = 10,
+	skip-gram/CBOW = CBOW,
+	Hierarchical softmax/Negative sampling = Negative sampling 
+
+The model took 1.1207703948020935 to train.
+Vocabulary length : 47134
+
+
+Testing from : ./Data/Test data/
+
